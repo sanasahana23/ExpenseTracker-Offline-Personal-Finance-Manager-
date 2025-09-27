@@ -124,7 +124,7 @@ To verify the application works correctly:
 - [ ] **Persistence**: Add expense, refresh page, confirm data remains
 - [ ] **Responsive**: Test on mobile, tablet, and desktop sizes
 
-## 🎯 Resume Project Description
+## 🎯Project Description
 
 **Built an offline, responsive Expense Tracker web application using HTML, CSS and vanilla JavaScript. Implemented persistent storage with localStorage, dynamic charts using Chart.js, CSV export/import, filtering/searching, dark mode, and accessibility best practices. Demonstrates data handling, UI/UX design, and front-end engineering skills.**
 
@@ -164,9 +164,6 @@ exp_123,Grocery Shopping,125.67,Food,2024-11-15,Weekly groceries,2024-11-15T10:3
 1. Modify CSS variables in `:root` section of `styles.css`
 2. Colors, fonts, spacing, and breakpoints are all configurable
 
-## 📝 License
-
-This project is released under the MIT License. Feel free to use, modify, and distribute.
 
 ---
 
