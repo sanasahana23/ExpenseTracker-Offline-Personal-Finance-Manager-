@@ -1,0 +1,110 @@
+[
+  {
+    "id": "exp_1640995200000_abc123",
+    "title": "Grocery Shopping at Whole Foods",
+    "amount": 125.67,
+    "category": "Food",
+    "date": "2024-11-15",
+    "notes": "Weekly groceries - organic produce and pantry items",
+    "createdAt": "2024-11-15T10:30:00.000Z"
+  },
+  {
+    "id": "exp_1640908800000_def456",
+    "title": "Flight to New York",
+    "amount": 450.00,
+    "category": "Travel",
+    "date": "2024-11-10",
+    "notes": "Business trip - round trip tickets",
+    "createdAt": "2024-11-10T14:15:00.000Z"
+  },
+  {
+    "id": "exp_1640822400000_ghi789",
+    "title": "New Laptop Bag",
+    "amount": 89.99,
+    "category": "Shopping",
+    "date": "2024-11-08",
+    "notes": "Waterproof laptop backpack from Amazon",
+    "createdAt": "2024-11-08T16:45:00.000Z"
+  },
+  {
+    "id": "exp_1640736000000_jkl012",
+    "title": "Electricity Bill",
+    "amount": 156.78,
+    "category": "Bills",
+    "date": "2024-11-01",
+    "notes": "Monthly utility payment",
+    "createdAt": "2024-11-01T09:00:00.000Z"
+  },
+  {
+    "id": "exp_1640649600000_mno345",
+    "title": "Coffee with Client",
+    "amount": 24.50,
+    "category": "Food",
+    "date": "2024-10-28",
+    "notes": "Business meeting at Starbucks",
+    "createdAt": "2024-10-28T11:20:00.000Z"
+  },
+  {
+    "id": "exp_1640563200000_pqr678",
+    "title": "Uber to Airport",
+    "amount": 35.75,
+    "category": "Travel",
+    "date": "2024-10-25",
+    "notes": "Airport transfer for business trip",
+    "createdAt": "2024-10-25T06:30:00.000Z"
+  },
+  {
+    "id": "exp_1640476800000_stu901",
+    "title": "New Running Shoes",
+    "amount": 129.99,
+    "category": "Shopping",
+    "date": "2024-10-20",
+    "notes": "Nike Air Max - needed new workout shoes",
+    "createdAt": "2024-10-20T18:00:00.000Z"
+  },
+  {
+    "id": "exp_1640390400000_vwx234",
+    "title": "Internet Bill",
+    "amount": 79.99,
+    "category": "Bills",
+    "date": "2024-10-15",
+    "notes": "Monthly broadband service",
+    "createdAt": "2024-10-15T08:30:00.000Z"
+  },
+  {
+    "id": "exp_1640304000000_yza567",
+    "title": "Lunch at Italian Restaurant",
+    "amount": 42.80,
+    "category": "Food",
+    "date": "2024-10-12",
+    "notes": "Team lunch - celebrated project completion",
+    "createdAt": "2024-10-12T13:15:00.000Z"
+  },
+  {
+    "id": "exp_1640217600000_bcd890",
+    "title": "Gas Station Fill-up",
+    "amount": 65.40,
+    "category": "Travel",
+    "date": "2024-10-08",
+    "notes": "Weekly fuel for commuting",
+    "createdAt": "2024-10-08T07:45:00.000Z"
+  },
+  {
+    "id": "exp_1640131200000_efg123",
+    "title": "New Winter Coat",
+    "amount": 199.95,
+    "category": "Shopping",
+    "date": "2024-10-05",
+    "notes": "Down jacket for cold weather - 40% off sale",
+    "createdAt": "2024-10-05T15:30:00.000Z"
+  },
+  {
+    "id": "exp_1640044800000_hij456",
+    "title": "Phone Bill",
+    "amount": 85.00,
+    "category": "Bills",
+    "date": "2024-10-01",
+    "notes": "Monthly mobile service plan",
+    "createdAt": "2024-10-01T10:00:00.000Z"
+  }
+]
